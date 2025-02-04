@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Async Js</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        #error {
+            color: red;
+            font-size: 20px;
+        }
+        </style>
+</head>
+<body>
+    <table id="table">
+        <thead>
+            <tr>
+                <th>user_id</th>
+                <th>post_id</th>
+                <th>post_title</th>
+                <th>post_text</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td id="user_id"></td>
+                <td id="post_id"></td>
+                <td id="post_title"></td>
+                <td id="post_text"></td>
+            </tr>
+        </tbody>
+        <tbody id="posts"></tbody>
+    </table>
+    <h1 id="error"></h1>
+
+    <script src="./main.js"></script>
+</body>
+</html>
