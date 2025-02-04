@@ -1,7 +1,6 @@
-# JavaScript Course - Dugsiiye
+# JavaScript Course - Dugsiiye YouTube.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 Welcome to the JavaScript Course repository by Dugsiiye. This repository contains all the materials and exercises for learning modern JavaScript (ES6+).
 
@@ -27,8 +26,3 @@ Welcome to the JavaScript Course repository by Dugsiiye. This repository contain
     ```
 3. Open the `index.html` file in your browser to start learning.
 
-## License
-
-This project is licensed under the MIT License.
-
-Happy Learning!
